@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  background-color: linear-gradient(79deg, #fcfced, #fcedfc 48%, #ebf6ff);
+}
+
+.auth-form-container,.login-form,.register-form{
+  display: flex;
+  flex-direction: coulmn;
+  align-items: center;
+}
